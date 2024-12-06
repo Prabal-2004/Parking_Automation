@@ -24,13 +24,3 @@ The Parking Space Monitoring System is a real-time application designed to monit
 3. **Spot Classification**:
    - Determines the status (free/occupied) of each parking space.
    - Updates and displays the real-time status overlayed on the video feed.
-
-## Installation
-### Prerequisites
-- Python 3.6 or later
-- OpenCV library
-
-### Steps
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/parking-monitoring-system.git
